@@ -5,8 +5,8 @@ A library of every single texture and audio (with transcripts) from the Garfelf'
 
 Titles in _italic_ = in progress. Titles in ~~strikethrough~~ = not in the library yet.
 
-- _Garfelf's Guide to a Great Lasagna_
-- ~~Garfelf's Guide and the Secrets Within~~
+- Garfelf's Guide to a Great Lasagna
+- _Garfelf's Guide and the Secrets Within_
 - ~~Garfelf's Guide and the Secrets Within (Momo DLC)~~
 - ~~Garfelf's Guide: Lost in the Forest~~
 - ~~Garfelf's Guide: The Fall of Johnny~~
