@@ -1,5 +1,5 @@
 # Garfelf's Guide Assets
-A library of every single texture and sound from the Garfelf's Guide series by CubeMasterPro, as well as fan-made deviations.
+A library of every single texture and sound (with transcripts) from the Garfelf's Guide series by CubeMasterPro, as well as fan-made deviations.
 
 ## Features:
 
