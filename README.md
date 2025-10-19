@@ -1,5 +1,5 @@
 # Garfelf's Guide Assets
-A library of every single texture and audio (with transcripts) from the Garfelf's Guide series by [RetroManTV](https://www.youtube.com/@RetroManTV/videos) (a.k.a. CubeMasterPro), as well as fan-made deviations.
+A library of every single texture and audio (with transcripts) from the Garfelf's Guide series by [RetroManTV](https://www.youtube.com/@RetroManTV) (a.k.a. CubeMasterPro), as well as fan-made deviations.
 
 Thanks to _[Baldi's Basics Mod Wiki](https://baldimod.fandom.com/wiki/)_ for transcription help.
 
