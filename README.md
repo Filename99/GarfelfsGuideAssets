@@ -3,6 +3,8 @@ A library of every single texture and audio (with transcripts) from the Garfelf'
 
 Thanks to _[Baldi's Basics Mod Wiki](https://baldimod.fandom.com/wiki/)_ for transcription help.
 
+Thanks to _[AnxiousAlex2004](https://www.youtube.com/@AA2004)_ for clarifying the names of some characters.
+
 ## Features:
 
 Titles in _italic_ = in progress. Titles in ~~strikethrough~~ = not in the library yet.
