@@ -10,8 +10,8 @@ Thanks to _[AnxiousAlex2004](https://www.youtube.com/@AA2004)_ for clarifying th
 Titles in _italic_ = in progress. Titles in ~~strikethrough~~ = not in the library yet.
 
 - Garfelf's Guide to a Great Lasagna
-- _Garfelf's Guide and the Secrets Within_
-- ~~Garfelf's Guide and the Secrets Within (Momo DLC)~~
+- Garfelf's Guide and the Secrets Within
+- _Garfelf's Guide and the Secrets Within (Momo DLC)_
 - ~~Garfelf's Guide: Lost in the Forest~~
 - ~~Garfelf's Guide: The Fall of Johnny~~
 - ~~Garfelf's Guide Robotic Disaster~~
